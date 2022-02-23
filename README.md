@@ -3,7 +3,7 @@
 ## 开发环境
 
 * 首先安装nodejs, node-dev[https://github.com/fgnass/node-dev], gulp[https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md]
-* 使用git克隆项目： git clone git@192.168.36.42:pc/lianjie-pc.git
+* 使用git克隆项目： git clone this.git
 * 然后安装全局模块：
 * npm install -g node-dev
 * npm install -g gulp-cli
